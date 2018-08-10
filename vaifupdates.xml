@@ -6,7 +6,7 @@
         <fileName>vAIF.exe</fileName> 
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
         <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
+        1. Stability And UI Improvements</description> 
         <launchArgs></launchArgs> 
     </update> 
 </sharpUpdate>
