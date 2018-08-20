@@ -1,3 +1,14 @@
-1. vAIFAIO
+1. vAIFAIO Meaning.
 - The name vAIFAIO Is given to the web panel and the pc app panel because these versions supports all of the versions in one.
-2
+
+2. Pre-Menu Explanation.
+- Login Option : Simply Means To Login With Your Registered Credentials.
+- Register Option : Simple Means To Register To The Panel With Your Desired Credentials.
+- Current Release Versions Option : Shows The Release Versions For All Versions Of vAIF.
+- Panel Explanation : Display All Information Regarding The Panel.
+- Submit Panel Issues : Simply Means To Submit Any Issues You Are Experiencing So The Errors Can Be Further Looked Into
+And Fixed upon the support team.
+- Optimize Panel Option : Auto Adjusts The Tool And Speeds Up The Overall Performance By Cleaning The Tool Cache
+And Getting Rid Of The Junk The Tool Has Stored.
+- Total CPU vAIF Is Using : Shows How Much Of The Computer Processing Units Are Being Used By The Application.
+- IOS And Android Uptime : Shows The Performance Of The Mobile Apps Using Real Time Data From Our JSON API.
