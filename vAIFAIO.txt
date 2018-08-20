@@ -21,3 +21,4 @@ And Registrations Are Encrypted And Backed Up Daily To One Big Database.
 - Login And Registration Security : The Security For This Panel Is Attached To The Database Making It Easy For Users To
 Signup, Login, And Not Worry About Their Information Being Exposed. The Security Also Makes It Difficult For The Panel To Be
 Exploited.
+For Further Information On Our Security Visit Our Faq Section (https://vaif.app/faq.php).
