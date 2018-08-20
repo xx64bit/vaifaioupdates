@@ -12,3 +12,12 @@ And Fixed upon the support team.
 And Getting Rid Of The Junk The Tool Has Stored.
 - Total CPU vAIF Is Using : Shows How Much Of The Computer Processing Units Are Being Used By The Application.
 - IOS And Android Uptime : Shows The Performance Of The Mobile Apps Using Real Time Data From Our JSON API.
+
+3. Login And Registration Explanation.
+- The Login And Registration Differentiate From The App For Multiple Reasons. One Of The Reasons Being Security. The App
+And vAIFAIO Panels Run Off Of Two Different Databases because Of The Framework Algorithms. The Different Databases Makes It
+Easier For Users To Recover Their Accounts If Needed, Also Making It To Where The Databases Interact So Each Set Of Logins
+And Registrations Are Encrypted And Backed Up Daily To One Big Database.
+- Login And Registration Security : The Security For This Panel Is Attached To The Database Making It Easy For Users To
+Signup, Login, And Not Worry About Their Information Being Exposed. The Security Also Makes It Difficult For The Panel To Be
+Exploited.
