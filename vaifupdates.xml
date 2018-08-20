@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<sharpUpdate>
+<vAIFUpdate>
     <update appID="vAIF">
         <version>1.0.1</version>
         <url>https://bitbucket.org/x64bit/vaifpcpanelupdates/src/master/vAIF.exe</url>
@@ -13,4 +13,4 @@
         1. Stability And UI Improvements</description>
         <launchArgs></launchArgs>
     </update>
-</sharpUpdate>
+</vAIFUpdate>
