@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <vAIFUpdate>
     <update appID="vAIF">
-        <version>1.0.0.0</version>
+        <version>1.0.0</version>
         <url>https://bitbucket.org/x64bit/vaifpcpanelupdates/src/master/vAIF.exe</url>
         <fileName>vAIF.exe</fileName>
         <md5>F16F9270971EAEAE8E313B32E8FF0814</md5>
